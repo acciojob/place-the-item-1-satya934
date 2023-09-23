@@ -1,2 +1,28 @@
+.container{
+	display:flex;
+	flex:wrap-reverse;
+	justify-content:space-between;
+}
+.box1{
+	width:50px;
+	height:50px;
+	background-color:green;
+}
+.box2{
+	width:50px;
+	height:50px;
+	background-color:red;
+}
+.box3{
+	width:50px;
+	height:50px;
+	background-color:blue;
+}
 
-/* Your CSS Code here. */
+
+
+
+
+
+
+
